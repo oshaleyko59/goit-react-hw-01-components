@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import css from './Description.module.css';
-import defaultAvatar from 'defaultAvatar.png';
+import defaultAvatar from 'assets/images/defaultAvatar.png';
 
 export const Description = ({
   username,
